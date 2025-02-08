@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BLAXON7
-- 👀 I’m interested in Computer Science.
 - 🌱 I’m currently learning C , React , Express JS and Javascript!
-- 🌱 Fluent in C++ , HTML ,CSS and Assembly!
+- 👀 Fluent in C++ , HTML ,CSS and Assembly!
 - ⚡ Currently a 2nd year FAST NUCES student of Compsci.
 
 <!---
