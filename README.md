@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BLAXON7
-- 🌱 I’m currently learning C , React , Express JS and Javascript!
-- 👀 Fluent in C++ , HTML ,CSS and Assembly!
-- ⚡ Currently a 2nd year FAST NUCES student of Compsci.
+- 🌱 I’m currently learning Vite+React , Tailwind , Typescript and Bun.js!
+- 👀 Fluent in C/C++ ,MsSQL and Assembly!
+- ⚡ FAST 2027' CompSci Student
 
 <!---
 BLAXON7/BLAXON7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
