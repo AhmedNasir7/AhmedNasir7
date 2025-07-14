@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BLAXON7
+- 👋 Hi, I’m @Ahmed.Nasir
 - 🌱 I’m currently learning Vite+React , Tailwind , Typescript and Bun.js!
 - 👀 Fluent in C/C++ ,MsSQL and Assembly!
 - ⚡ FAST 2027' CompSci Student
