@@ -8,11 +8,11 @@ Skilled in **C++**, **C**, **React**, **Next.js**, **Tailwind CSS**, **Supabase*
 ---
 
 ## 📊 GitHub Overview  
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&count_private=true)  
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedNasir7&show_icons=true&theme=transparent&hide_border=true&count_private=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNasir7&layout=compact&theme=transparent&hide_border=true)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=transparent&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AhmedNasir7&theme=transparent&hide_border=true)  
 
 ---
 
@@ -22,20 +22,20 @@ Skilled in **C++**, **C**, **React**, **Next.js**, **Tailwind CSS**, **Supabase*
 ---
 
 ## 🏆 Achievements  
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=15)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=AhmedNasir7&theme=algolia&no-frame=true&no-bg=true&margin-w=15)  
 
 ---
 
 ## 🎮 Contribution Fun  
-![mario](https://YOUR_USERNAME.github.io/mario-contributions/mario.svg)  
+![mario](https://AhmedNasir7.github.io/mario-contributions/mario.svg)  
 
 ---
 
 ## 🌐 Connect with Me  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/AhmedNasir7)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AhmedNasir7)  
 
 ---
 
-⭐ From [Ahmed](https://github.com/YOUR_USERNAME)
+⭐ From [Ahmed](https://github.com/AhmedNasir7)
