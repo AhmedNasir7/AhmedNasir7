@@ -24,7 +24,7 @@ Skilled in **C++**, **C**, **React**, **Next.js**, **Tailwind CSS**, **Supabase*
 ---
 
 ## 🏆 Achievements  
-![Trophies](https://github-profile-trophy.vercel.app/?username=AhmedNasir7&theme=radical&no-frame=false&no-bg=false&margin-w=15)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=AhmedNasir7&theme=onedark&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)
 
 ---
 
