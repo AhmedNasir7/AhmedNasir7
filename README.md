@@ -23,13 +23,8 @@ Skilled in **C++**, **C**, **React**, **Next.js**, **Tailwind CSS**, **Supabase*
 
 ---
 
-## 🏆 Achievements  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedNasir7&show_icons=true&theme=radical)
-
----
-
 ## 🎮 Contribution Fun  
-![mario](https://ahmednasir7.github.io/mario-contributions/mario.svg)  
+![GitHub Snake Dark](https://github.com/AhmedNasir7/AhmedNasir7/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
