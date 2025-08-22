@@ -23,8 +23,16 @@ Skilled in **C++**, **C**, **React**, **Next.js**, **Tailwind CSS**, **Supabase*
 
 ---
 
-## 🎮 Contribution Fun  
-![GitHub Snake Dark](https://github.com/AhmedNasir7/AhmedNasir7/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<details>
+  <summary>🐍 Snake Contribution Animation</summary>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedNasir7/AhmedNasir7/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedNasir7/AhmedNasir7/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AhmedNasir7/AhmedNasir7/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+</details>
 
 ---
 
