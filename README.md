@@ -33,11 +33,4 @@ Skilled in **C++**, **C**, **React**, **Next.js**, **Tailwind CSS**, **Supabase*
 
 ---
 
-## 🌐 Connect with Me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/AhmedNasir7)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AhmedNasir7)  
-
----
-
 ⭐ From [Ahmed](https://github.com/AhmedNasir7)
