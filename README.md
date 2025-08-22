@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed 👋  
 
-### 🚀 Web Developer | 💻 Programmer | 🎨 Designer  
+🚀 **Web Developer** | 💻 **Programmer** | 🎨 **Designer**  
 
 I craft modern web apps, scalable systems, and clean UI/UX.  
 Skilled in **C++**, **C**, **React**, **Next.js**, **Tailwind CSS**, **Supabase**, **Zustand**, **shadcn/ui**, **HTML/CSS**, and even low-level **Assembly**.  
@@ -12,7 +12,7 @@ Skilled in **C++**, **C**, **React**, **Next.js**, **Tailwind CSS**, **Supabase*
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true)  
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=transparent&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=transparent&hide_border=true)  
 
 ---
 
@@ -27,7 +27,7 @@ Skilled in **C++**, **C**, **React**, **Next.js**, **Tailwind CSS**, **Supabase*
 ---
 
 ## 🎮 Contribution Fun  
-![mario](https://raw.githubusercontent.com/aaron-bird/mario-contributions/main/mario.svg)  
+![mario](https://YOUR_USERNAME.github.io/mario-contributions/mario.svg)  
 
 ---
 
@@ -37,4 +37,5 @@ Skilled in **C++**, **C**, **React**, **Next.js**, **Tailwind CSS**, **Supabase*
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)  
 
 ---
+
 ⭐ From [Ahmed](https://github.com/YOUR_USERNAME)
