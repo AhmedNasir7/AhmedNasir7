@@ -23,9 +23,4 @@ Skilled in **C++**, **C**, **React**, **Next.js**, **Tailwind CSS**, **Supabase*
 
 ---
 
-![GitHub Snake](https://raw.githubusercontent.com/AhmedNasir7/github-contribution-grid-snake/output/github-contribution-grid-snake.svg)
-
-
----
-
 ⭐ From [Ahmed](https://github.com/AhmedNasir7)
