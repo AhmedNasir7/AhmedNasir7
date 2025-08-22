@@ -1,30 +1,40 @@
-# Hi there 👋, I'm Ahmed
+# Hi, I'm Ahmed 👋  
 
-### 🚀 About Me
-💻 Full-stack Web Developer | 🎨 Graphic Designer | 📊 Data Enthusiast  
-I love building modern web apps, exploring AI, and designing creative digital products.  
+### 🚀 Web Developer | 💻 Programmer | 🎨 Designer  
 
----
-
-### 📊 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&margin-w=15&margin-h=15)
-
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=highcontrast)
-
-### 🌍 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+I craft modern web apps, scalable systems, and clean UI/UX.  
+Skilled in **C++**, **C**, **React**, **Next.js**, **Tailwind CSS**, **Supabase**, **Zustand**, **shadcn/ui**, **HTML/CSS**, and even low-level **Assembly**.  
 
 ---
 
-### 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://yourportfolio.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)  
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter)](https://twitter.com/YOUR_USERNAME)  
+## 📊 GitHub Overview  
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&count_private=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true)  
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=transparent&hide_border=true)  
 
 ---
 
-⭐️ From [Ahmed](https://github.com/YOUR_USERNAME)
+## 🛠️ Tech Stack  
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,react,next,tailwind,supabase,html,css,js,ts,git,linux,vercel,vscode)](https://skillicons.dev)  
+
+---
+
+## 🏆 Achievements  
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=15)  
+
+---
+
+## 🎮 Contribution Fun  
+![mario](https://raw.githubusercontent.com/aaron-bird/mario-contributions/main/mario.svg)  
+
+---
+
+## 🌐 Connect with Me  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)  
+
+---
+⭐ From [Ahmed](https://github.com/YOUR_USERNAME)
